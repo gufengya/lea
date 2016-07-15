@@ -2,7 +2,7 @@
 
 ##程序参考自以下网址：
 ###[Python爬虫实战一之爬取糗事百科段子](http://cuiqingcai.com/990.html)
-###[Python爬虫实战一之爬取糗事百科段子](http://cuiqingcai.com/993.html)
+###[Python爬虫实战二之爬取百度贴吧帖子](http://cuiqingcai.com/993.html)
 
 ###与参考程序不同的地方在于运用requests，和BeautifulSoup模块代替了urllib和re模块。
 
